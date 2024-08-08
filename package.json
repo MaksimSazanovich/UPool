@@ -1,6 +1,6 @@
 {
-  "name": "com.Unity_one_love.UPool",
-  "version": "0.1.0",
+  "name": "com.MaksimSazanovich.UPool",
+  "version": "0.1.3",
   "displayName": "UPool",
   "description": "Object pool",
   "unity": "2019.1",
