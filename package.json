@@ -1,0 +1,7 @@
+{
+  "name": "com.Unity_one_love.UPool",
+  "version": "0.1.0",
+  "displayName": "UPool",
+  "description": "Object pool",
+  "unity": "2019.1"
+}
